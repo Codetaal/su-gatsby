@@ -1,8 +1,8 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
----
+title: My Second Post! v2
+date: 2015-05-06T23:46:37.121Z
 
+---
 Wow! I love blogging so much already.
 
 Did you know that "despite its name, salted duck eggs can also be made from
