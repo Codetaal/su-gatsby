@@ -1,7 +1,7 @@
 const config = require('./site-config.json')
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || '/su-public',
+  pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
     title: config.title,
     description: config.description,
